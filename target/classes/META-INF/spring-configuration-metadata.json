@@ -1,0 +1,34 @@
+{
+  "groups": [
+    {
+      "name": "course",
+      "type": "bijay.np.profileandhierarchicalproperties.controller.CourseConfiguration",
+      "sourceType": "bijay.np.profileandhierarchicalproperties.controller.CourseConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "course.author",
+      "type": "java.lang.String",
+      "sourceType": "bijay.np.profileandhierarchicalproperties.controller.CourseConfiguration"
+    },
+    {
+      "name": "course.chapter-count",
+      "type": "java.lang.Integer",
+      "sourceType": "bijay.np.profileandhierarchicalproperties.controller.CourseConfiguration",
+      "defaultValue": 0
+    },
+    {
+      "name": "course.name",
+      "type": "java.lang.String",
+      "sourceType": "bijay.np.profileandhierarchicalproperties.controller.CourseConfiguration"
+    },
+    {
+      "name": "course.rating",
+      "type": "java.lang.Integer",
+      "sourceType": "bijay.np.profileandhierarchicalproperties.controller.CourseConfiguration",
+      "defaultValue": 0
+    }
+  ],
+  "hints": []
+}
